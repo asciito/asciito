@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I delete all my repos, so lets start again.
 
 <!--
 **asciito/asciito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
