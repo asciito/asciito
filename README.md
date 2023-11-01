@@ -1,8 +1,7 @@
 <h1 align="center">Hi, everyone ✋</h1>
 
 <p align="center">
-  Hi, my name is Ayax Córdova, and I'm Fullstack Web Developer with currently +6 years of experience and a passionate taco lover (real tacos from Mexico).
-
+  Hi, my name is Ayax Córdova, and I'm a Fullstack Web Developer with currently +6 years of experience, and a passionate love for tacos (real tacos from Mexico).
 </p>
   
 <h2 align="center">
