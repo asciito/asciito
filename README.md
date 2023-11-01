@@ -36,10 +36,10 @@
 
 Yes, of course.
 
-Currently I'm focusing on improving my clean code skills, and one of my goals is to contribute to Laravel project and it's beautiful community.
+Currently, I'm focusing on improving my clean code skills, and one of my goals is to contribute to the Laravel project and its beautiful community.
 
---- ️
-  
+***
+
 <p align="center">
   
   <a href="https://github.com/asciito/asciito">
