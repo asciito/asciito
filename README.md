@@ -46,7 +46,7 @@ Currently, I'm focusing on improving my clean code skills, and one of my goals i
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asciito&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
   </a>
   
-  <a href="https://github.com/joseluistello/joseluistello">
+  <a href="https://github.com/asciito/asciito">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=asciito&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="JoseLuis's GitHub Stats" />
   </a>
 </p>
