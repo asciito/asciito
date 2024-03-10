@@ -8,7 +8,7 @@
   My Tech Stack
 </h2>
 
-<h2 align="center">Currently working at: <a href="https://www.supernus.com/">Supernus Pharmaceuticals</a></h2>
+<h2 align="center">Currently working at: <a href="#">Nothing</a></h2>
   
 <p align="center">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-7A86B8?style=for-the-badge&logo=php&logoColor=white" />
